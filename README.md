@@ -86,7 +86,7 @@
 
 [架构设计原则](https://github.com/lwl888/Java-Note/blob/master/架构设计原则.md)
 
-## Sharding-shphere
+## Sharding-jdbc
 
 [sharding-jdbc](https://github.com/lwl888/Java-Note/blob/master/sharding-jdbc.md)
 
