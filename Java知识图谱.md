@@ -1,5 +1,3 @@
-# Java技术图谱
-
 ## Java基础
 
 [Java集合](https://www.processon.com/view/link/5d63e96ce4b0869fa423046e)
