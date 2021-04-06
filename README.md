@@ -1,4 +1,4 @@
-# Java思维导图
+# Java-Note
 
 ## Java基础
 
@@ -73,4 +73,10 @@
 [分布式锁](https://www.processon.com/view/link/5e80af41e4b012e940b1314d)
 
 [zookeeper](https://www.processon.com/view/link/5f2b4bdb0791297d38d7eb03)
+
+## Java8
+
+[Java8](https://github.com/lwl888/Java-Note/blob/master/Java8.md)
+
+
 
