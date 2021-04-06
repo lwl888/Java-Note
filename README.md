@@ -52,6 +52,8 @@
 
 [MQ](https://www.processon.com/view/link/5dac5afee4b03d4e28a91ed3)
 
+[MQ消息丢失解决方案](https://www.processon.com/view/link/5eef17db07912929cb52dfdc)
+
 
 
 ## 系统设计
