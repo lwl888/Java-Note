@@ -1,6 +1,6 @@
-##### Java技术图谱
+#### Java技术图谱
 
-###### Java基础
+##### Java基础
 
 [Java集合](https://www.processon.com/view/link/5d63e96ce4b0869fa423046e)
 
@@ -10,7 +10,7 @@
 
 
 
-###### 并发编程
+##### 并发编程
 
 [线程池](https://www.processon.com/view/link/5ede3ec707912965e7d9d183)
 
@@ -24,18 +24,3 @@
 
 [synchronized原理](https://www.processon.com/view/link/5d6cae12e4b0ee8929c4ddc9)
 
-
-
-数据库
-
-
-
-中间件
-
-分布式
-
-开发框架
-
-系统设计
-
-计算机基础
