@@ -82,3 +82,7 @@
 
 [设计模式](https://github.com/lwl888/Java-Note/blob/master/设计模式.md)
 
+## 架构设计原则
+
+[架构设计原则](https://github.com/lwl888/Java-Note/blob/master/架构设计原则.md)
+
