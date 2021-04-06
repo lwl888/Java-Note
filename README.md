@@ -1,6 +1,6 @@
-### Java技术图谱
+# Java技术图谱
 
-#### Java基础
+## Java基础
 
 [Java集合](https://www.processon.com/view/link/5d63e96ce4b0869fa423046e)
 
@@ -10,7 +10,7 @@
 
 
 
-#### 并发编程
+## 并发编程
 
 [线程池](https://www.processon.com/view/link/5ede3ec707912965e7d9d183)
 
@@ -26,7 +26,7 @@
 
 
 
-#### 数据库
+## 数据库
 
 [MySQL](https://www.processon.com/view/link/5d64b089e4b051fcd68f4c2a)
 
@@ -42,7 +42,33 @@
 
 [Redission解锁流程](https://www.processon.com/view/link/5d668f60e4b0b951eda53850)
 
+## JVM
+
+[JVM](https://www.processon.com/view/link/5d6a18b9e4b051fcd68fc23d)
 
 
 
+## 中间件
+
+[MQ](https://www.processon.com/view/link/5dac5afee4b03d4e28a91ed3)
+
+
+
+## 系统设计
+
+[秒杀系统设计](https://www.processon.com/view/link/5e1aff41e4b061a80c7451e3)
+
+
+
+## 开发框架
+
+[Spring](https://www.processon.com/view/link/5ede50445653bb2925899a0b)
+
+
+
+## 分布式
+
+[分布式锁](https://www.processon.com/view/link/5e80af41e4b012e940b1314d)
+
+[zookeeper](https://www.processon.com/view/link/5f2b4bdb0791297d38d7eb03)
 
