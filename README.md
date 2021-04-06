@@ -26,11 +26,19 @@
 
 
 
-## 数据库
+## MySQL
 
 [MySQL](https://www.processon.com/view/link/5d64b089e4b051fcd68f4c2a)
 
 [联合索引](https://www.processon.com/view/link/5d62307ee4b09965fad009e5)
+
+### 分库分表
+
+[sharding-jdbc](https://github.com/lwl888/Java-Note/blob/master/sharding-jdbc.md)
+
+
+
+## Redis
 
 [Redis](https://www.processon.com/view/link/5d97f75ae4b03d4e28a6ccd8)
 
@@ -85,8 +93,4 @@
 ## 架构设计原则
 
 [架构设计原则](https://github.com/lwl888/Java-Note/blob/master/架构设计原则.md)
-
-## Sharding-jdbc
-
-[sharding-jdbc](https://github.com/lwl888/Java-Note/blob/master/sharding-jdbc.md)
 
