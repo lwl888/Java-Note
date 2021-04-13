@@ -100,3 +100,14 @@
 
 [IOT技术栈](https://www.processon.com/view/link/6075970e0791293688807aa8)
 
+### 充电技能
+
+互联网研发转IOT研发需充电技能
+
+- MQTT、CoAP、蓝牙、Zigbee等设备通信协议
+- PostgreSQL
+- Azure CosmosDB
+- MongoDB
+- Netty
+- Kafka
+
