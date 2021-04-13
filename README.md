@@ -96,3 +96,7 @@
 
 [架构设计原则](https://github.com/lwl888/Java-Note/blob/master/架构设计原则.md)
 
+## IOT技术栈
+
+[IOT技术栈](https://www.processon.com/view/link/6075970e0791293688807aa8)
+
