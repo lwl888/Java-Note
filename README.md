@@ -96,11 +96,9 @@
 
 [架构设计原则](https://github.com/lwl888/Java-Note/blob/master/架构设计原则.md)
 
-## IOT技术栈
+# IOT
 
 [IOT技术栈](https://www.processon.com/view/link/6075970e0791293688807aa8)
-
-### 充电技能
 
 互联网研发转IOT研发需充电技能
 
@@ -110,4 +108,30 @@
 - MongoDB
 - Netty
 - Kafka
+
+# 数据中台
+
+[数据中台](https://github.com/lwl888/Java-Note/blob/master/%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%8F%B0.md)
+
+# 大数据
+
+## Flink
+
+ [Flink](https://github.com/lwl888/Java-Note/blob/master/Flink.md)
+
+## Flume
+
+[Flume](https://github.com/lwl888/Java-Note/blob/master/Flume.md)
+
+## InfluxDB
+
+[InfluxDB](https://github.com/lwl888/Java-Note/blob/master/InfluxDB.md)
+
+## Spark
+
+[Spark](https://github.com/lwl888/Java-Note/blob/master/Spark.md)
+
+## Sqoop
+
+[Sqoop](https://github.com/lwl888/Java-Note/blob/master/Sqoop.md)
 
