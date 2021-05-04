@@ -20,6 +20,14 @@ InfluxDB在DB-Engines的时序数据库类别里排名第一。
 - 大型删除（数据过期）
 - 主要是插入/追加工作负载，很少更新
 
+# 基本语法
+
+[中文文档](https://jasper-zhang1.gitbooks.io/influxdb/content/Guide/querying_data.html)
+
+# Java API
+
+- [ ] 文档
+
 # InfluxDB 系统架构
 
 ![preview](https://pic3.zhimg.com/v2-5df0a8734422a15a601d301f0b1d4b1a_r.jpg)
