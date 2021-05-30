@@ -34,12 +34,6 @@
 
 
 
-## 分库分表
-
-[sharding-jdbc](https://github.com/lwl888/Java-Note/blob/master/sharding-jdbc.md)
-
-
-
 ## Redis
 
 [Redis](https://www.processon.com/view/link/5d97f75ae4b03d4e28a6ccd8)
